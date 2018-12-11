@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: IcoMoon.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   data-tags="busy, wait, loading, hour glass"
+   style="margin-left: 8px; margin-top: 8px;"
+   id="svg2995"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="busy.svg">
+  <metadata
+     id="metadata3003">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3001" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1144"
+     inkscape:window-height="671"
+     id="namedview2999"
+     showgrid="false"
+     inkscape:zoom="0.37402344"
+     inkscape:cx="685.06242"
+     inkscape:cy="281.32695"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2995" />
+  <rect
+     style="fill:#e6e6e6"
+     id="rect3030"
+     width="1021.3263"
+     height="550.76764"
+     x="-256.66843"
+     y="-20.052219"
+     inkscape:export-filename="D:\0_RUN\run-1.png"
+     inkscape:export-xdpi="26"
+     inkscape:export-ydpi="26" />
+  <path
+     d="m 294.50368,137.62401 c 25.71647,-16.30387 43.12551,-47.643268 43.12551,-83.634464 0,-4.046565 -0.22253,-8.033763 -0.64929,-11.947782 l -165.96998,0 c -0.42751,3.914392 -0.64966,7.901591 -0.64966,11.947782 0,35.991196 17.40903,67.330594 43.12514,83.634464 -25.71611,16.30387 -43.12514,47.64327 -43.12514,83.63447 0,4.04656 0.22215,8.03376 0.64928,11.94778 l 165.96999,0 c 0.42713,-3.91402 0.64929,-7.90122 0.64929,-11.94778 3.7e-4,-35.9912 -17.40867,-67.3306 -43.12514,-83.63447 z m -106.22175,83.63447 c 0,-34.89349 14.96497,-64.48329 41.81723,-74.24575 l 0,-18.77781 0,0 C 203.2469,118.47321 188.28193,88.883413 188.28193,53.989546 l 0,0 131.42559,0 0,0 c 0,34.893867 -14.96497,64.483664 -41.81723,74.245374 l 0,18.77781 c 26.85226,9.76246 41.81723,39.35226 41.81723,74.24575 l -131.42559,0 z m 85.80485,-54.21417 c -13.37666,-7.58759 -14.1148,-17.43032 -14.11816,-23.40384 l 0,-11.99035 c 0,-5.97277 0.71014,-15.85209 14.14019,-23.45947 7.18809,-4.175 13.40541,-10.519271 18.11732,-18.357762 l -76.46244,0 c 4.71676,7.846705 10.94193,14.195832 18.13934,18.370832 13.37667,7.58759 14.11444,17.42995 14.11818,23.40384 l 0,11.99035 c 0,5.97239 -0.71015,15.85209 -14.1402,23.45946 -13.55737,7.87434 -23.65997,23.4632 -26.71263,42.25333 l 93.6538,0 c -3.05489,-18.80058 -13.16682,-34.39617 -26.7354,-42.26639 z"
+     id="path2997"
+     style="fill:#b3b3b3"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="D:\0_RUN\run-1.png"
+     inkscape:export-xdpi="26"
+     inkscape:export-ydpi="26" />
+  <text
+     xml:space="preserve"
+     style="font-size:69.47333527px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+     x="69.897171"
+     y="319.6745"
+     id="text3005"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="D:\0_RUN\run-1.png"
+     inkscape:export-xdpi="26"
+     inkscape:export-ydpi="26"><tspan
+       sodipodi:role="line"
+       id="tspan3007"
+       x="69.897171"
+       y="319.6745">КАРТИНКА</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:161.69689941px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-168.20943"
+     y="467.22406"
+     id="text3005-1"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="D:\0_RUN\run-1.png"
+     inkscape:export-xdpi="26"
+     inkscape:export-ydpi="26"><tspan
+       sodipodi:role="line"
+       id="tspan3007-7"
+       x="-168.20943"
+       y="467.22406">ГРУЗИТСЯ</tspan></text>
+</svg>

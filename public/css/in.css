@@ -1,0 +1,706 @@
+.area, .sep {
+    position: relative
+}
+
+#footer_1, #header_1, #middle_2 {
+    text-align: center
+}
+
+.area:after, h1, h2, h3, h4, p {
+    overflow: hidden
+}
+
+a, b, body, dd, div, dl, dt, em, form, h1, h2, h3, h4, h5, h6, html, img, label, li, ol, p, span, strong, table, tbody, td, th, tr, ul {
+    margin: 0;
+    padding: 0;
+    border: 0
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0
+}
+
+.s-no-js-span1, .s-no-js-span2, .s-no-js_0, [hidden] {
+    display: none
+}
+
+html {
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -o-text-size-adjust: 100%;
+    -webkit-text-size-adjust: none
+}
+
+a, a:active, a:focus, a:hover, img, img:active, img:focus, img:hover {
+    outline-style: none
+}
+
+ol, ul {
+    list-style-position: inside;
+    list-style-type: none
+}
+
+b, strong {
+    font-weight: 700
+}
+
+img {
+    border: 0
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+#run .s-no-js_0, #set .s-no-js_0 {
+    display: block
+}
+
+#run #middle_2, #run #s-modal, #set #middle_2, #set #s-modal {
+    display: none
+}
+
+#run .s-no-js-span1, #set .s-no-js-span2 {
+    display: block
+}
+
+body {
+    background-color: #FFF;
+    font-family: Verdana, Arial, Helvetica, sans-serif
+}
+
+.s-no-js_0, .s-no-js_0 p, .s-slow-old_0, .s-slow-old_0 p {
+    background-color: #8b8b8b
+}
+
+.portrait .bit .quest-offer, .quest-offer {
+    font-family: "Nautilus Pompilius", "Times New Roman", Times, serif
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400
+}
+
+a {
+    text-decoration: none
+}
+
+p {
+    line-height: 1.8
+}
+
+.bit .navbar {
+    display: none
+}
+
+.area, .area:after, .sep {
+    display: block
+}
+
+h1, h2, h3, h4, h5, h6, ol, p, ul {
+    max-height: 9001em
+}
+
+a, h1, h2, h3, h4, h5, h6, li, ol, p, span, ul {
+    background-image: url(../img/sys/blank.png);
+    background-repeat: no-repeat
+}
+
+.s-no-js_0, .s-slow-old_0 {
+    color: #FFF;
+    font-weight: 700;
+    text-align: center;
+    padding: 1em;
+    margin-bottom: 1em;
+    margin-top: 1em
+}
+
+#header_1, #middle_1 {
+    background-color: #5D9C38
+}
+
+.s-no-js_0 li, .s-slow-old_0 li {
+    padding: .3em
+}
+
+.s-no-js_0 a, .s-slow-old_0 a {
+    color: #333;
+    font-weight: 400;
+    text-decoration: underline
+}
+
+.s-no-js_0 a:hover, .s-slow-old_0 a:hover {
+    color: #000
+}
+
+.area {
+    margin: 0 auto
+}
+
+.portrait .bit .quest-call, .portrait .bit .quest-go, .portrait .bit .quest-logo {
+    margin-bottom: 2.5em
+}
+
+.area:after {
+    content: "\0020";
+    height: 0;
+    clear: both;
+    visibility: hidden
+}
+
+.zone, .zone-center, .zone-col, .zone-col2, .zone-col3, .zone-col4, .zone-col5, .zone-col6, .zone-left, .zone-left-10, .zone-left-20, .zone-right, .zone-right-10, .zone-right-20 {
+    display: block;
+    position: relative;
+    float: left;
+    min-height: 5px
+}
+
+.bit .area {
+    min-width: 320px;
+    max-width: 740px
+}
+
+.mid .area {
+    min-width: 600px;
+    max-width: 1024px
+}
+
+.big .area {
+    min-width: 900px;
+    max-width: 1280px
+}
+
+.wide .area {
+    min-width: 1280px;
+    max-width: 1440px
+}
+
+.portrait .bit .area {
+    min-width: 240px;
+    max-width: 460px
+}
+
+.portrait .mid .area {
+    min-width: 500px;
+    max-width: 700px
+}
+
+.portrait .big .area {
+    min-width: 600px;
+    max-width: 800px
+}
+
+.portrait .wide .area {
+    min-width: 600px;
+    max-width: 1180px
+}
+
+.sep {
+    float: left;
+    width: 100%;
+    min-height: 1px
+}
+
+.sep-3-2, .sep-3-3, .sep-4-2, .sep-6-2, .sep-6-3 {
+    width: 0;
+    height: 0;
+    display: none
+}
+
+.bit .sep-3-2, .landscape .bit .sep-6-3 {
+    display: block;
+    float: left;
+    min-height: 1px;
+    position: relative
+}
+
+.zone {
+    width: 100%
+}
+
+.landscape .bit .zone-center, .zone-col {
+    width: 90%;
+    margin-left: 5%
+}
+
+.landscape .bit .sep-6-3 {
+    width: 100%
+}
+
+.bit .zone-center {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+.bit .zone-col2, .bit .zone-left, .bit .zone-right {
+    width: 42.5%;
+    margin-left: 5%
+}
+
+.bit .zone-left-10, .bit .zone-right-10 {
+    width: 24%;
+    margin-left: 5%
+}
+
+.bit .zone-left-20, .bit .zone-right-20 {
+    width: 61%;
+    margin-left: 5%
+}
+
+.bit .zone-col3 {
+    width: 26.67%;
+    margin-left: 5%
+}
+
+.bit .zone-col4 {
+    width: 42.5%;
+    margin-left: 5%
+}
+
+.bit .zone-col5 {
+    width: 13.98%;
+    margin-left: 5%
+}
+
+.bit .zone-col6 {
+    width: 26.67%;
+    margin-left: 5%
+}
+
+.bit .col3-mod5 {
+    margin-left: 28.75%
+}
+
+.bit .sep-3-2 {
+    width: 100%
+}
+
+.big .zone-center {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+.big .zone-col2, .big .zone-left, .big .zone-right {
+    width: 42.5%;
+    margin-left: 5%
+}
+
+.big .zone-left-10, .big .zone-right-10 {
+    width: 24%;
+    margin-left: 5%
+}
+
+.big .zone-left-20, .big .zone-right-20 {
+    width: 61%;
+    margin-left: 5%
+}
+
+.big .zone-col3 {
+    width: 26.67%;
+    margin-left: 5%
+}
+
+.big .zone-col4 {
+    width: 18.74%;
+    margin-left: 5%
+}
+
+.big .zone-col5 {
+    width: 13.98%;
+    margin-left: 5%
+}
+
+.big .zone-col6 {
+    width: 10.81%;
+    margin-left: 5%
+}
+
+.big .col3-mod4 {
+    margin-left: 23.33%
+}
+
+.big .sep-3-3, .portrait .big .sep-4-2, .portrait .big .sep-6-3, .portrait .bit .sep-4-2, .portrait .bit .sep-6-2 {
+    display: block;
+    position: relative;
+    float: left;
+    width: 100%;
+    min-height: 1px
+}
+
+.portrait .bit .zone-center, .portrait .bit .zone-col2, .portrait .bit .zone-col3, .portrait .bit .zone-left, .portrait .bit .zone-left-10, .portrait .bit .zone-left-20, .portrait .bit .zone-right, .portrait .bit .zone-right-10, .portrait .bit .zone-right-20 {
+    width: 90%;
+    margin-left: 5%
+}
+
+.portrait .big .zone-col4, .portrait .big .zone-col5, .portrait .bit .zone-col4 {
+    width: 42.5%;
+    margin-left: 5%
+}
+
+.portrait .big .zone-col6 {
+    width: 26.67%;
+    margin-left: 5%
+}
+
+.bit {
+    font-size: 16px
+}
+
+.bit h1 {
+    font-size: 2em
+}
+
+.bit h2 {
+    font-size: 1.15em
+}
+
+.bit h3 {
+    font-size: 1.13em
+}
+
+.mid {
+    font-size: 16px
+}
+
+.mid h1 {
+    font-size: 2.2em
+}
+
+.mid h2 {
+    font-size: 1.5em
+}
+
+.mid h3 {
+    font-size: 1.4em
+}
+
+.big {
+    font-size: 14px
+}
+
+.big h1 {
+    font-size: 3em
+}
+
+.big h2 {
+    font-size: 2em
+}
+
+.big h3 {
+    font-size: 1.5em
+}
+
+.wide {
+    font-size: 14px
+}
+
+.wide h1 {
+    font-size: 3.2em
+}
+
+.wide h2 {
+    font-size: 2.4em
+}
+
+.wide h3 {
+    font-size: 1.8em
+}
+
+.portrait .bit {
+    font-size: 16px
+}
+
+.portrait .bit h1 {
+    font-size: 1.8em
+}
+
+.portrait .bit h2 {
+    font-size: 1.14em
+}
+
+.portrait .bit h3 {
+    font-size: 1.13em
+}
+
+.portrait .mid {
+    font-size: 16px
+}
+
+.portrait .mid h1 {
+    font-size: 2em
+}
+
+.portrait .mid h2 {
+    font-size: 1.5em
+}
+
+.portrait .mid h3 {
+    font-size: 1.4em
+}
+
+.portrait .big {
+    font-size: 16px
+}
+
+.portrait .big h1 {
+    font-size: 2.6em
+}
+
+.portrait .big h2 {
+    font-size: 1.8em
+}
+
+.portrait .big h3 {
+    font-size: 1.5em
+}
+
+.portrait .wide {
+    font-size: 16px
+}
+
+.portrait .wide h1 {
+    font-size: 3.2em
+}
+
+.portrait .wide h2 {
+    font-size: 1.8em
+}
+
+.portrait .wide h3 {
+    font-size: 1.5em
+}
+
+#header_1 {
+    padding-bottom: 1.3em;
+    color: #FFF
+}
+
+.quest-call {
+    cursor: pointer
+}
+
+.quest-call img {
+    width: 36px;
+    height: auto
+}
+
+.quest-logo img {
+    width: 190px;
+    height: auto
+}
+
+.quest-go img {
+    width: 34px;
+    height: auto
+}
+
+.quest-offer {
+    font-weight: 400;
+    padding-top: .6em;
+    padding-bottom: .6em;
+    font-size: 3.5em;
+    opacity: .5
+}
+
+.portrait .bit .quest-offer {
+    font-weight: 400;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 2.5em
+}
+
+#footer_1, #middle_1, #middle_2 {
+    padding-bottom: 2em
+}
+
+.portrait .bit .quest-call img {
+    width: 62px
+}
+
+.portrait .bit .quest-logo img {
+    width: 220px
+}
+
+.portrait .bit .quest-go img {
+    width: 62px
+}
+
+#middle_2, #middle_3 {
+    padding-top: 2em
+}
+
+#middle_3 p {
+    color: #555;
+    margin-bottom: 2em
+}
+
+#middle_2 {
+    background: url(../img/decor/bg-00-2.png) 50% 0 #BBD5EC
+}
+
+#middle_3 h2, #middle_3 h3 {
+    margin-bottom: .5em
+}
+
+.quest-p-01 {
+    padding-top: .5em;
+    color: #1d4b53;
+    font-size: 1.2em
+}
+
+.bit .s-offer-phone {
+    opacity: 1 !important
+}
+
+.big #offer {
+    opacity: .1;
+    min-height: 600px
+}
+
+.big .s-offer-phone {
+    display: none
+}
+
+#footer_1 {
+    padding-top: 2em;
+    background-color: #528931;
+    color: #FFF
+}
+
+#footer_1 a {
+    text-decoration: underline;
+    color: #FFF
+}
+
+#test-name-block .zone-col {
+    margin-top: 1em
+}
+
+.el-sep01 {
+    height: 46px;
+    padding-top: .5em;
+    background-color: #DF2300
+}
+
+.el-sep01 h2 {
+    color: #FFF;
+    font-size: 1.3em;
+    letter-spacing: .1em;
+    padding-top: .15em
+}
+
+.mid .el-sep01 h2, .portrait .big .el-sep01 h2 {
+    font-size: 1.1em
+}
+
+.el-sep-1 {
+    background: url(../parts/el_separator-01/b-01.jpg) 50% 100% repeat-x
+}
+
+.mid .el-sep01, .portrait .big .el-sep01 {
+    background-color: #DF2300
+}
+
+ul.social-network {
+    list-style: none;
+    display: inline;
+    margin-left: 0 !important;
+    padding: 0
+}
+
+ul.social-network li {
+    display: inline;
+    margin: 0 5px
+}
+
+.social-network a, .social-network span {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center
+}
+
+.social-network a {
+    background-color: #999;
+    position: relative;
+    margin: 0 auto;
+    border-radius: 50%;
+    font-size: 20px
+}
+
+.social-network a.s_linkedin:hover {
+    background-color: #007bb7
+}
+
+.social-network a.s_facebook:hover {
+    background-color: #3B5998
+}
+
+.social-network a.s_twitter:hover {
+    background-color: #3cf
+}
+
+.social-network a.s_vk:hover {
+    background-color: #395E88
+}
+
+.social-network span {
+    overflow: hidden;
+    margin: 0;
+    line-height: 46px
+}
+
+.social-network img {
+    width: 350px;
+    height: 50px;
+    position: relative;
+    opacity: .7;
+    top: 0;
+    left: 0
+}
+
+.social-network img:hover {
+    opacity: 1
+}
+
+.s_linkedin img {
+    top: 0;
+    left: -100px
+}
+
+.s_facebook img {
+    top: 0;
+    left: -150px
+}
+
+.s_twitter img {
+    top: 0;
+    left: -200px
+}
+
+.s_vk img {
+    top: 0;
+    left: -250px
+}
+
+#quest_slideshow .uk-overlay-slide-left, #quest_slideshow .uk-overlay-slide-right {
+    width: 20em
+}
+
+#quest_slideshow .uk-overlay-panel-p {
+    text-align: center
+}
+
+#quest_slideshow .uk-cover-background {
+    background-position: 0 50%
+}
+
+#quest_slideshow .uk-slideshowi-img-fix {
+    min-height: 550px
+}
